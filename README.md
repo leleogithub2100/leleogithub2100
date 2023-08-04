@@ -39,8 +39,6 @@ Meu nome é <b>Leandro Ribeiro</b>, sou Engenheiro Eletricista Eletrônico a mai
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
 <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/json-ambar.svg?&style=flat-square&logo=json&logoColor=white"/>
 <img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>    
 </p>
