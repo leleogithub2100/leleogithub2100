@@ -23,7 +23,7 @@ Meu nome é <b>Leandro Ribeiro</b>, sou Engenheiro Eletricista Eletrônico a mai
 
 
 <br>
-<h2>Algumas Tecnologias que uso, venho estudando e aprendendo</h2>
+<h2>Algumas tecnologias que uso, que venho estudando e aprendendo.</h2>
 <p align="center">
 <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
