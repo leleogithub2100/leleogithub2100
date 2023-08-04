@@ -23,7 +23,7 @@ Meu nome é <b>Leandro Ribeiro</b>, sou Engenheiro Eletricista Eletrônico a mai
 
 
 <br>
-<h2>Some technologies that I work with 🖥️</h2>
+<h2>Algumas Tecnologias que uso, venho estudando e aprensendo</h2>
 <p align="center">
     
 <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
@@ -35,7 +35,6 @@ Meu nome é <b>Leandro Ribeiro</b>, sou Engenheiro Eletricista Eletrônico a mai
 <img src="https://img.shields.io/badge/linux-orange.svg?&style=flat-square&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/julia-purple.svg?&style=flat-square&logo=julia&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP%20-%23316192.svg?&style=flat-square&logo=PHP&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%20-%2314354C.svg?&style=flat-square&logo=C&logoColor=white"/>
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
