@@ -35,59 +35,33 @@ Meu nome é <b>Leandro Ribeiro</b>, sou Engenheiro Eletricista Eletrônico a mai
 <img src="https://img.shields.io/badge/linux-orange.svg?&style=flat-square&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/julia-purple.svg?&style=flat-square&logo=julia&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%20-%2314354C.svg?&style=flat-square&logo=C&logoColor=white"/>
-<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <img src ="https://img.shields.io/badge/mysql-%23316192.svg?&style=flat-square&logo=mysql&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
-
-
-
-<img src="https://img.shields.io/badge/-Sublime%20Text-49505A?style=flat-square&logo=sublime-text&logoColor=white">
 <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/json-ambar.svg?&style=flat-square&logo=json&logoColor=white"/>
-<img src="https://img.shields.io/badge/slack-red.svg?&style=flat-square&logo=slack&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
-
-
 <img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>    
 </p>
 
 
 <br>
 <h2>Contact me! 💬</h2>
-<a href="https://www.linkedin.com/in/andercordeiro"  >
+<a href="(https://www.linkedin.com/in/leandroassiz/)"  >
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:andersoncordeironf@gmail.com"  >
+<a href="mailto:leandroassiz@gmail.com"  >
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://medium.com/@andcordeiro"  >
-    <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/andcordeiro86"  >
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
-</a>
-<a href="#"  >
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>       
+
 <br>
 
-<h2>More about me 🤓</h2>
 
-
-<p><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> I play drums and I'm an AC/DC fan</p>
-<p><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> I've been using Linux since 1998</p>
-<p><img alt="PlayStation Network" src="https://img.shields.io/badge/PSN%20-%230070D1.svg?&style=for-the-badge&logo=Playstation&logoColor=white"/> I'm a Pro Evolution Soccer player</p>
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=andersoncordeiro&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=leleogithub2100&color=blue&style=flat)
