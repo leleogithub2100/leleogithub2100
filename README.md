@@ -13,7 +13,7 @@
 </center>
 
 <h2>
-    Hi there 
+    Oi Pessoal!
     <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h2>
 
@@ -21,75 +21,6 @@ Meu nome é <b>Leandro Ribeiro</b>, sou Engenheiro Eletricista Eletrônico a mai
 
 <br>
 
-<h2>My academic articles (not all) 🏆</h2>
-<ul>
-    <li>
-    <a href="https://www.scielo.br/scielo.php?script=sci_arttext&pid=S2318-03312017000100253" >
-       Comparação de modelos de mineração de dados aplicados a uma estação meteorológica de superfície
-    </a>
-    </li>
-    <li>
-    <a href="https://sol.sbc.org.br/index.php/waihcws/article/view/12342" >
-           FakeSpread: Um framework para análise de propagação de fake news na Web
-    </a>
-    </li>
-     <li>
-    <a href="https://dl.acm.org/doi/10.1145/3323503.3360648" >
-           Data mining applied in fake news classification through textual patterns
-    </a>
-    </li>
-    <li>
-    <a href="https://www.researchgate.net/publication/328289485_Checking_fake_news_on_web_browsers_an_approach_using_collaborative_datasets" >
-       Checking fake news on web browsers: an approach using collaborative datasets
-    </a>
-    </li>
-     <li>
-    <a href="https://sol.sbc.org.br/index.php/brasnam/article/view/3596/3555" >
-       Identificação de fake news: uma abordagem utilizando métodos de busca e chatbots
-    </a>
-    </li>
-     <li>
-    <a href="https://pantheon.ufrj.br/handle/11422/9475" >
-        Mineração De Dados Aplicada À Identificação De Notícias Falsas
-    </a>
-    </li>
-
-</ul>
-
-<br>
-<h2>My Talks (not all) 📊</h2>
-<ul>
-<li>
-    <a href="https://github.com/andersoncordeiro/contos-rnn/blob/main/EraUmaVez.pdf" >
-        TDC 2021 - Era uma vez pra sempre: utilizando redes neurais recorrentes para gerar contos infantis infinitos
-    </a>
-    </li>
-    <li>
-    <a href="https://drive.google.com/file/d/1g9pL0pQt8n2VikRjBZU9FHq7rVA_8lHI/view?usp=sharing" >
-        Hackeando Dados Públicos: crawlers e portais da transparência
-    </a>
-    </li>
-    <li>
-    <a href="https://drive.google.com/file/d/1HFDe0CO8TObeL0pio-iqNvVme0pvOXVN/view?usp=sharing" >
-        Fakepedia: uma plataforma de fact-checking colaborativa
-    </a>
-    </li>
-    <li>
-    <a href="https://drive.google.com/file/d/1qjX_G-U3S5_vPtbraNSw2EM_hqgvHNqf/view?usp=sharing"  >
-        Python: do "olá mundo" ao "como vai você" (minicurso de análise de sentimentos)
-    </a>
-    </li>
-    <li>
-    <a href="https://drive.google.com/file/d/1IlIh2oOrd1VeS06DkDhy805OccMuK9JY/view?usp=sharing"  >
-        Getúlio, um chatbot [Utilizando BRI e NLP]
-    </a>
-    </li>
-    <li>
-    <a href="https://drive.google.com/file/d/113c_ZZObwilFwQzY0FqugGMdU0yBhu_e/view?usp=sharing"  >
-        Nossa Democracia Foi Hackeada (bots e democracia)
-    </a>
-    </li>
-</ul>
 
 <br>
 <h2>Some technologies that I work with 🖥️</h2>
