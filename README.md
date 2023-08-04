@@ -1,4 +1,4 @@
-<img src="[./images/background.png](https://img.olhardigital.com.br/uploads/acervo_imagens/2019/08/20190819040121.jpg)">
+<img src="https://img.olhardigital.com.br/uploads/acervo_imagens/2019/08/20190819040121.jpg">
 <center>
     <table>
         <tr>
