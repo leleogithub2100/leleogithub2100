@@ -1,12 +1,12 @@
-<img src="./images/background.png">
+<img src="[./images/background.png](https://img.olhardigital.com.br/uploads/acervo_imagens/2019/08/20190819040121.jpg)">
 <center>
     <table>
         <tr>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncordeiro&hide=html&layout=compact&theme=buefy" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leleogithub2100&hide=html&layout=compact&theme=buefy" />
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=andersoncordeiro&theme=buefy"/>
+                <img src="https://github-readme-stats.vercel.app/api?username=leleogithub2100&theme=buefy"/>
             </td>
         </tr>   
     </table>
@@ -17,7 +17,7 @@
     <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h2>
 
-My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python developer who started working with data mining in 2013, when I became a master in Computational Modeling at UERJ. I am currently a PhD student at UFRJ in the area of Complex Network Management, working to identify misinformation in social networks.
+Meu nome é <b>Leandro Ribeiro</b>, sou Engenheiro Eletricista Eletrônico a mais de 10 anos, estou unido os conhecimento e experiencia adquiridos, ao longo desses anos,  com áreas afins, como a da ciência de dados.
 
 <br>
 
