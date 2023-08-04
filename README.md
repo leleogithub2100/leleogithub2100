@@ -17,13 +17,13 @@
     <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h2>
 
-Meu nome é <b>Leandro Ribeiro</b>, sou Engenheiro Eletricista Eletrônico a mais de 10 anos, estou unido os conhecimento e experiencia adquiridos, ao longo desses anos,  com áreas afins, como a da ciência de dados.
+Meu nome é <b>Leandro Ribeiro</b>, sou Engenheiro Eletricista Eletrônico a mais de 10 anos, estou unido os conhecimento e experiencia adquiridos, ao longo desses anos,  com áreas afins, como a da ciência de dados. Sou autodidata, curioso, busco incessantemento o aprendizado de novos conhecimentos sobre tecnologia e processos para agregar valor ao trabalho.
 
 <br>
 
 
 <br>
-<h2>Algumas tecnologias que uso, que venho estudando e aprendendo.</h2>
+<h2>Algumas tecnologias que uso, e que venho estudando.</h2>
 <p align="center">
 <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
