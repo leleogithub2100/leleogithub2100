@@ -51,7 +51,7 @@ Meu nome é <b>Leandro Ribeiro</b>, sou Engenheiro Eletricista Eletrônico a mai
 
 <br>
 <h2>Contact me! 💬</h2>
-<a href="(https://www.linkedin.com/in/leandroassiz/)"  >
+<a href="https://www.linkedin.com/in/leandroassiz/"  >
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:leandroassiz@gmail.com"  >
