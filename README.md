@@ -17,7 +17,7 @@
     <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h2>
 
-Meu nome é <b>Leandro Ribeiro</b>, sou Engenheiro Eletricista Eletrônico a mais de 10 anos, estou unido os conhecimento e experiencia adquiridos, ao longo desses anos,  com áreas afins, como a da ciência de dados. Sou autodidata, curioso, busco incessantemento o aprendizado de novos conhecimentos sobre tecnologia e processos para agregar valor ao trabalho.
+Meu nome é <b>Leandro Ribeiro</b>, sou Cientista de dados, Engenheiro Eletricista Eletrônico a mais de 10 anos, estou unido os conhecimento e experiencia adquiridos, ao longo desses anos,  com áreas afins, como a da ciência de dados. Sou autodidata, curioso, busco incessantemento o aprendizado de novos conhecimentos sobre tecnologia e processos para agregar valor ao trabalho.
 
 <br>
 
